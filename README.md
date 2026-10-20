@@ -1,4 +1,4 @@
-**------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 # ⚠️ IF YOU ARE ON GITHUB THIS IS A READONLY MIRROR GO TO OFFICAL REPO FOR CREATING ISSUES AND PULLS 
 # ISSUES AND PULL REQUESTS WILL BE IGNORED.
 # OFFICIAL REPO: https://git.initstack.org/RedEforIT/rv3
@@ -11,7 +11,6 @@ This GitHub repository is a mirror intended for discoverability. The primary rep
 
 **My server. My code. My rules.**
 
-**------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 
 
