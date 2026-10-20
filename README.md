@@ -1,7 +1,13 @@
-
+**------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 # ⚠️ IF YOU ARE ON GITHUB THIS IS A READONLY MIRROR GO TO OFFICAL REPO FOR CREATING ISSUES AND PULLS 
+This is done to maintain full control and ownership of my code. GitHub's features and limitations don't offer the same level of control as an instance I own and manage myself.
 
-this is done to maintain control and ownership of code as i do not like github, and placing my code here allows better features sorrounding my code and the ability to control user accounts and the ability to decide what **I want.**
+To be honest, I also enjoy the feeling of maintaining and managing something of my own. Running my own infrastructure gives me the freedom to make my own decisions and manage my projects exactly how I want.
+
+This GitHub repository is a mirror intended for discoverability. The primary repository, where development and project management take place, is hosted on my own Git server.
+
+**My server. My code. My rules.**
+**------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # ISSUES AND PULL REQUESTS WILL BE IGNORED.
 
