@@ -1,7 +1,7 @@
 
 # ⚠️ IF YOU ARE ON GITHUB THIS IS A READONLY MIRROR GO TO OFFICAL REPO FOR CREATING ISSUES AND PULLS 
 
-###this is done to maintain control and ownership of code as i do not like github, and placing my code here allows better features sorrounding my code and the ability to control user accounts and the ability to decide what **I want.*
+this is done to maintain control and ownership of code as i do not like github, and placing my code here allows better features sorrounding my code and the ability to control user accounts and the ability to decide what **I want.**
 
 # ISSUES AND PULL REQUESTS WILL BE IGNORED.
 
