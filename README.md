@@ -7,6 +7,7 @@ To be honest, I also enjoy the feeling of maintaining and managing something of 
 This GitHub repository is a mirror intended for discoverability. The primary repository, where development and project management take place, is hosted on my own Git server.
 
 **My server. My code. My rules.**
+
 **------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 # ISSUES AND PULL REQUESTS WILL BE IGNORED.
