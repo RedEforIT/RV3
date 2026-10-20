@@ -1,5 +1,8 @@
 **------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 # ⚠️ IF YOU ARE ON GITHUB THIS IS A READONLY MIRROR GO TO OFFICAL REPO FOR CREATING ISSUES AND PULLS 
+# ISSUES AND PULL REQUESTS WILL BE IGNORED.
+# OFFICIAL REPO: https://git.initstack.org/RedEforIT/rv3
+
 This is done to maintain full control and ownership of my code. GitHub's features and limitations don't offer the same level of control as an instance I own and manage myself.
 
 To be honest, I also enjoy the feeling of maintaining and managing something of my own. Running my own infrastructure gives me the freedom to make my own decisions and manage my projects exactly how I want.
@@ -10,9 +13,6 @@ This GitHub repository is a mirror intended for discoverability. The primary rep
 
 **------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
-# ISSUES AND PULL REQUESTS WILL BE IGNORED.
-
-# OFFICIAL REPO: https://git.initstack.org/RedEforIT/rv3
 
 
 
