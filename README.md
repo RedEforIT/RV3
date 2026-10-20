@@ -1,3 +1,14 @@
+
+# ⚠️ IF YOU ARE ON GITHUB THIS IS A READONLY MIRROR GO TO OFFICAL REPO FOR CREATING ISSUES AND PULLS 
+
+###this is done to maintain control and ownership of code as i do not like github, and placing my code here allows better features sorrounding my code and the ability to control user accounts and the ability to decide what **I want.*
+
+# ISSUES AND PULL REQUESTS WILL BE IGNORED.
+
+# OFFICIAL REPO: https://git.initstack.org/RedEforIT/rv3
+
+
+
 # RV3
 
 **Build: v6 | Crypto: ML-KEM-1024 + SHAKE-256 + AES-256-GCM + Argon2id**
