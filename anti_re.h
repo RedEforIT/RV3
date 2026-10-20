@@ -1,10 +1,4 @@
-/*
- * anti_re.h – Cross-platform anti-reverse-engineering layer, RV v5
- * Copyright (c) Manyhost.org 2026
- *
- * All techniques adapted for Linux / macOS / BSD / any POSIX.
- * x86-specific instructions gated behind RV_X86_64.
- */
+
 #pragma once
 #include "platform.h"
 #include <sodium.h>
